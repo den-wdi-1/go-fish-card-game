@@ -101,7 +101,7 @@ You can run your game from the command line by typing:
 ruby go_fish.rb
 ```
 
-> **Hint**: Take a look at the "Drive Code" at the bottom of `go_fish.rb`!
+> **Hint**: Take a look at the "Driver Code" at the bottom of `go_fish.rb`!
 
 You can also load your code into Pry to test your assumptions:
 ```bash
